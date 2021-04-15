@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">6dp</dimen>
+    <dimen name="margin">8dp</dimen>
+    <dimen name="viewSize">1dp</dimen>
+    <dimen name="paddingimage">36dp</dimen>
+
+    <dimen name="textSize">24sp</dimen>
+
+</resources>

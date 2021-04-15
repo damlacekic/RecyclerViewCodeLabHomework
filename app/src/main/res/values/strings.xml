@@ -1,0 +1,596 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">RecyclerViewSongsAndLyric</string>
+    <string name="toolbarfirst">Songs</string>
+    <string name="toolbarsecond">Lyric</string>
+    <string name="newrules">"One, one, one…
+        Talkin in my sleep at night
+        Makin myself crazy
+        (Out of my mind, out of my mind)
+        Wrote it down and read it out
+        Hopin it would save me
+        (Too many times, too many times)
+        My love, he makes me feel like nobody else
+        Nobody else
+        But my love, he doesnt love me, so I tell myself
+        I tell myself
+
+        One, dont pick up the phone
+        You know he s only calling cause he s drunk and alone
+        Two, dont let him in
+        Youll have to kick him out again
+        Three, dont be his friend
+        You know youre gonna wake up in his bed in the morning
+        And if youre under him, you aint gettin over him
+
+        I got new rules, I count em
+        I got new rules, I count em
+        I gotta tell them to myself
+        I got new rules, I count em
+        I gotta tell them to myself
+
+        I keep pushin forwards, but he keeps pullin me backwards
+        (Nowhere to turn) no way
+        (Nowhere to turn) no
+        Now Im standing back from it, I finally see the pattern
+        (I never learn, I never learn)
+        But my love, he doesnt love me, so I tell myself
+        I tell myself
+        I do, I do, I do
+
+        One, dont pick up the phone
+        You know hes only calling cause hes drunk and alone
+        Two, dont let him in
+        Youll have to kick him out again
+        Three, dont be his friend
+        You know youre gonna wake up in his bed in the morning
+        And if you're under him, you ain't gettin' over him
+
+        I got new rules, I count 'em
+        I got new rules, I count 'em
+        I gotta tell them to myself
+        I got new rules, I count 'em
+        I gotta tell them to myself
+
+        Practice makes perfect
+        I'm still tryna learn it by heart
+        (I got new rules, I count 'em)
+        Eat, sleep, and breathe it
+        Rehearse and repeat it, 'cause I
+        (I got new, I got new, I...)
+
+        One, don't pick up the phone
+        You know he's only calling 'cause he's drunk and alone
+        Two, don't let him in
+        You'll have to kick him out again
+        Three, don't be his friend
+        You know you're gonna wake up in his bed in the morning
+        And if you're under him, you ain't gettin' over him
+
+        I got new rules, I count 'em
+        I got new rules, I count 'em
+        (Oh, whoa-oh)
+        I gotta tell them to myself
+        I got new rules, I count 'em
+        (Baby, you know I count 'em)
+        I gotta tell them to myself
+
+        Don't let him in, don't let him in
+        Don't, don't, don't, don't
+        Don't be his friend, don't be his friend
+        Don't, don't, don't, don't
+        Don't let him in, don't let him in
+        Don't, don't, don't, don't
+        Don't be his friend, don't be his friend
+        Don't, don't, don't, don't
+        You gettin' over him"</string>
+    <string name="pokerface" tools:ignore="Typos">"
+Mum mum mum mah
+Mum mum mum mah
+Mum mum mum mah
+Mum mum mum mah
+Mum mum mum mah
+I wanna hold em like they do in Texas Plays
+Fold em let em hit me raise it baby stay with me, I love it
+Luck and intuition play the cards with Spades to start
+And after hes been hooked Ill play the one thats on his heart
+Oh, oh, oh
+Ill get him hot, show him what Ive got
+Oh, oh, oh
+Ill get him hot, show him what Ive got
+Cant read my, cant read my
+No he can&apos;t read my poker face
+(She&apos;s got to love nobody)
+Can&apos;t read my, can&apos;t read my
+No he can&apos;t read my poker face
+(She&apos;s got to love nobody)
+P-p-p-poker face, p-p-poker face
+(Mum mum mum mah)
+P-p-p-poker face, p-p-poker face
+(Mum mum mum mah)
+I wanna roll with him a hard pair we will be
+A little gambling is fun when you&apos;re with me, I love it
+Russian Roulette is not the same without a gun
+And baby when it&apos;s love if it&apos;s not rough it isn&apos;t fun, fun
+Oh, oh, oh
+I&apos;ll get him hot, show him what I&apos;ve got
+Oh, oh, oh
+I&apos;ll get him hot, show him what I&apos;ve got
+Can&apos;t read my, can&apos;t read my
+No he can&apos;t read my poker face
+(She&apos;s got to love nobody)
+Can&apos;t read my, can&apos;t read my
+No he can&apos;t read my poker face
+(She&apos;s got to love nobody)
+P-p-p-poker face, p-p-poker face
+(Mum mum mum mah)
+P-p-p-poker face, p-p-poker face
+(Mum mum mum mah)
+(Mum mum mum mah)
+(Mum mum mum mah)
+I won't tell you that I love you
+Kiss or hug you
+Cause I'm bluffin' with my muffin
+I'm not lying I'm just stunnin' with my love-glue-gunning
+Just like a chick in the casino
+Take your bank before I pay you out
+I promise this, promise this
+Check this hand cause I'm marvelous
+Can't read my, can't read my
+No he can't read my poker face
+(She's got to love nobody)
+Can't read my, can't read my
+No he can't read my poker face
+(She's got to love nobody)
+Can't read my, can't read my
+No he can't read my poker face
+(She's got to love nobody)
+Can't read my, can't read my
+No he can't read my poker face
+(She's got to love nobody)
+Can't read my, can't read my
+No he can't read my poker face
+(She's got to love nobody)
+Can't read my, can't read my
+No he can't read my poker face
+(She's got to love nobody)
+P-p-p-poker face, p-p-poker face
+P-p-p-poker face, p-p-poker face
+(She's got to love nobody)
+P-p-p-poker face, p-p-poker face
+(Mum mum mum mah)
+P-p-p-poker face, p-p-poker face
+(Mum mum mum mah)
+P-p-p-poker face, p-p-poker face
+(Mum mum mum mah)
+P-p-p-poker face, p-p-poker face
+(Mum mum mum mah)"
+    </string>
+    <string name="masterofpuppets">"
+End of passion play, crumbling away
+Im your source of self-destruction
+Veins that pump with fear, sucking darkest clear
+Leading on your death&apos;s construction
+Taste me you will see
+More is all you need
+You&apos;re dedicated to
+How I&apos;m killing you
+
+Come crawling faster
+Obey your master
+Your life burns faster
+Obey your master
+Master
+
+Master of puppets I&apos;m pulling your strings
+Twisting your mind and smashing your dreams
+Blinded by me, you can&apos;t see a thing
+Just call my name, &apos;cause I&apos;ll hear you scream
+Master
+Master
+Just call my name, &apos;cause I&apos;ll hear you scream
+Master
+Master
+
+Needlework the way, never you betray
+Life of death becoming clearer
+Pain monopoly, ritual misery
+Chop your breakfast on a mirror
+Taste me you will see
+More is all you need
+You&apos;re dedicated to
+How I&apos;m killing you
+
+Come crawling faster
+Obey your master
+Your life burns faster
+Obey your master
+Master
+
+Master of puppets I&apos;m pulling your strings
+Twisting your mind and smashing your dreams
+Blinded by me, you can't see a thing
+Just call my name, 'cause I'll hear you scream
+Master
+Master
+Just call my name, 'cause I'll hear you scream
+Master
+Master
+
+Master, master
+Where's the dreams that I've been after?
+Master, master
+You promised only lies
+Laughter, laughter
+All I hear or see is laughter
+Laughter, laughter
+Laughing at my cries
+
+Fix me
+
+Hell is worth all that, natural habitat
+Just a rhyme without a reason
+Never-ending maze, drift on numbered days
+Now your life is out of season
+I will occupy
+I will help you die
+I will run through you
+Now I rule you too
+
+Come crawling faster
+Obey your master
+Your life burns faster
+Obey your master
+Master
+
+Master of puppets I'm pulling your strings
+Twisting your mind and smashing your dreams
+Blinded by me, you can't see a thing
+Just call my name, 'cause I'll hear you scream
+Master
+Master
+Just call my name, 'cause I'll hear you scream
+Master
+Master"
+    </string>
+<string name="toxicity">"
+Looking at life through the eyes of a tire hub
+
+Eating seeds as a pastime activity
+The toxicity of our city, of our city
+
+New, what do you own the world?
+How do you own disorder, disorder
+Now, somewhere between the sacred silence, sacred silence and sleep
+Somewhere between the sacred silence and sleep
+Disorder, disorder, disorder
+
+More wood for their fires, loud neighbours
+Flashlight reveries caught in the headlights of a truck
+
+Eating seeds as a pastime activity
+The toxicity of our city, of our city
+
+New, what do you own the world?
+How do you own disorder, disorder
+Now, somewhere between the sacred silence, sacred silence and sleep
+Somewhere between the sacred silence and sleep
+Disorder, disorder, disorder
+
+New, what do you own the world?
+How do you own disorder
+Now, somewhere between the sacred silence, sacred silence and sleep
+Somewhere between the sacred silence and sleep
+Disorder, disorder, disorder
+
+When I became the sun
+I shone life into the man's hearts
+When I became the sun
+I shone life into the man's hearts"
+</string>
+    <string name="purplehat" tools:ignore="TypographyEllipsis">"
+    Purple hat
+Cheetah print
+Dancing on the people
+Rolled up at the after joint
+Dancing dancing on the people
+People dancing on the people
+I got people on the people
+People dancing on the people
+With the people on the people
+
+Smoke and CO2
+See me see you
+Dancing on the people
+Climb up on the booth
+Hanging from the people
+On the people
+My head hits the roof
+Dancing on the ceiling on the people
+I got people on the people
+Dancing dancing on the people
+
+I&apos;ve got purple hat
+Cheetah print
+Dancing on the people
+Rolled up at the after joint
+Dancing dancing on the people
+People dancing on the people
+I got people on the people
+People dancing on the people
+With the people on the people
+
+Smoke and CO2
+See me see you
+Dancing on the people
+Climb up on the booth
+Hanging from the people
+On the people
+My head hits the roof
+Dancing on the ceiling on the people
+I got people on the (oh)
+Dancing on the people
+
+I&apos;ve got people
+People
+People
+People people
+Dancing on the people
+I&apos;ve got
+
+Everybody in the booth
+Can&apos;t tell myself apart from you
+(Dancing on the people)
+Now that we&apos;re (I&apos;ve got people)
+Dancing
+People
+(People)
+Dancing
+People
+(People)
+Dancing
+People
+(People people)
+Dancing
+People
+
+I've got purple hat
+Cheetah print
+Dancing on the people
+Rolled up at the after joint
+Dancing dancing on the people
+People dancing on the people
+I got people on the people
+People dancing on the people
+With the people on the people
+
+Smoke and CO2
+See me see you
+Dancing on the people
+Climb up on the booth
+Hanging from the people
+On the people
+My head hits the roof
+Dancing on the ceiling on the people
+I got people on the people
+Dancing dancing on the people
+I got
+
+Dancing people
+I've got people
+People people
+Dancing on the people (Dancing on me)
+
+Everybody in the booth
+Can't tell myself apart from you
+Now that we're
+Dancing
+People
+Dancing
+People
+Dancing
+People
+Dancing
+(Dancing on the people I've got)
+People
+
+Dancing
+People
+Dancing
+People
+Dancing
+People
+Dancing
+(Dancing on the people I've got)
+People
+
+Purple hat
+Cheetah print
+Dancing on the people
+Rolled up at the after joint
+Dancing dancing on the people
+People dancing on the people
+I got people on the people
+People dancing on the people
+With the people on the..."
+</string>
+<string name="callmebyyourname">"
+    I caught it bad yesterday
+You hit with me with a call to your place
+Ain\'t been out in a while anyway
+Was hoping I could catch you throwin\' smiles at my face
+
+Romantic talking? You don\'t even have to try
+You\'re cute enough to fuck with me tonight
+Lookin\' at the table all I see is weed and white
+Baby you livin\' the life but nigga you ain\'t living right
+
+Cocaine and drinking with your friends
+You live in the dark, boy, I cannot pretend
+I\'m not fazed, only here to sin
+If Eve ain\'t in your garden, you know that you can
+
+Call me when you want
+Call me when you need
+Call me in the morning
+I\'ll be on the way
+
+Call me when you want
+Call me when you need
+Call me out by your name
+I\'ll be on the way, like
+
+I wanna sell what you\'re buying
+I wanna feel on your ass in Hawaii
+I want that jet lag from fuckin\' and flyin\'
+Shoot a child in your mouth while I'm ridin'
+
+Oh, oh... Why me?
+A sign of the times every time that I speak
+A dime and a nine, it was mine every week
+What a time, an incline, God was shining on me
+
+Now I can\'t leave
+And now I\'m actin\' hella elite
+Never want the niggas that\'s in my league
+I want to fuck the ones I envy (I envy)
+
+Cocaine and drinking with your friends
+You live in the dark, boy, I cannot pretend
+I\'m not fazed, only here to sin
+If Eve ain\'t in your garden, you know that you can
+
+Call me when you want
+Call me when you need
+Call me in the morning
+I\'ll be on the way
+
+Call me when you want
+Call me when you need
+Call me out by your name
+I\'ll be on the way, like
+
+Call me by your name
+Tell me you love me in private
+Call me by your name
+I do not care if you\'re lying"
+</string>
+    <string name="uzunlar">
+        Ben Köşeliydim Hayat Dedi Düz Olana Yanaşırım
+Neydi Bu?
+Tamam Dedim Ağlama Ver Bana Mutluluğu Barışalım
+Oldu Mu?
+
+Uykusunda Her Biri Yorma Sakın Kendini
+Anlatıp Derdimizi Onlara
+Sen Ben Birkaç Kişi Bırakmışız Bütün Işi
+Vurmuşuz Kendimizi Yollara
+        Uzunlar Yanıyor Arabamızda
+Bu Işık Ikimize Fazla Geceyi Böler
+Bilmem Ne Olabilir Aramızda
+Bu Işık Ikimize Fazla Arayı Bozar
+
+Denizde Açıldım Hayat Dedi Dön Geriye Bozuşuruz
+Neydi Bu?
+Tamam Boğulursam Haber Veririm O Zaman Konuşuruz
+Oldu Mu
+    </string>
+    <string name="dunyadanuzak">"
+      Bir yol var ama her yerde tuzak
+Bir yol daha var, dönmek de yasak
+Deryaya yakın, dünyadan uzak
+Deryaya yakın, dünyadan uzak
+
+Gel vazgeçelim hiç zorlamadan
+Sen aklıselim, ben yorgun adam
+Bir yer bulalım, dünyadan uzak
+Bir yer bulalım, dünyadan uzak
+
+Yine gözümüz yükseklerde
+Hayat geçiyo&apos; perde perde
+Doydum, artık bana müsaade
+Bir yer bulalım, dünyadan uzak
+
+Yine gözümüz yükseklerde
+Hayat geçiyo&apos; perde perde
+Doydum, artık bana müsaade
+Bir yer bulalım, dünyadan uzak
+
+Bir yol var ama her yerde tuzak
+Bir yol daha var, dönmek de yasak
+Deryaya yakın, dünyadan uzak
+Deryaya yakın, dünyadan uzak
+
+Yine gözümüz yükseklerde
+Hayat geçiyo perde perde
+Doydum, artık bana müsaade
+Bir yer bulalım, dünyadan uzak
+
+Yapamadığım birçok şey var
+Hem tatminsizim hem günahkâr
+Sen beni bu şehirden kurtar
+Bir yer bulalım, dünyadan uzak
+
+Yine gözümüz yükseklerde
+Hayat geçiyo perde perde
+Doydum, artık bana müsaade
+Bir yer bulalım, dünyadan uzak
+Bir yer bulalım, dünyadan uzak"
+    </string>
+    <string name="gidersen">"
+        Gidersen bana da bir dengini yolla
+Dinerse gözyaşın beni de ağla
+Arkanda beni bırak gönlüme aldırma
+Ardında bir beni bırak gönlüme duyurma.
+
+Yüzüne bakmam ellerinden tutmam
+Sözünü ben duymam
+Gideceksen durma."
+    </string>
+    <string name="perfectplaces">"
+        Every night, I live and die
+Feel the party to my bones
+Watch the wasters blow the speakers
+Spill my guts beneath the outdoor light
+It&apos;s just another graceless night
+I hate the headlines and the weather
+I&apos;m 19 and I&apos;m on fire
+But when we&apos;re dancing I&apos;m alright
+It&apos;s just another graceless night
+
+Are you lost enough?
+Have another drink, get lost in us
+This is how we get notorious, oh
+&apos;Cause I don&apos;t know
+If they keep tellin&apos; me where to go
+I&apos;ll blow my brains out to the radio, oh
+
+All of the things we&apos;re taking
+&apos;Cause we are young and we&apos;re ashamed
+Send us to perfect places
+All of our heroes fading
+Now I can&apos;t stand to be alone
+Let's go to perfect places
+
+Every night, I live and die
+Meet somebody, take 'em home
+Let's kiss and then take off our clothes
+It's just another graceless night
+
+'Cause all of the things we're taking
+'Cause we are young and we're ashamed
+Send us to perfect places
+All of our heroes fading
+Now I can't stand to be alone
+Let's go to perfect places
+
+All the nights spent off our faces
+Trying to find these perfect places
+What the fuck are perfect places anyway?
+All the nights spent off our faces
+Trying to find these perfect places
+What the fuck are perfect places anyway?
+All the nights spent off our faces
+Trying to find these perfect places
+What the fuck are perfect places anyway?"
+    </string>
+</resources>

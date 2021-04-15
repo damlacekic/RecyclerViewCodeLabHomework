@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="@dimen/padding">
+
+    <TextView
+        android:id="@+id/singerName"
+        style="@style/artist_name"
+
+        >
+    </TextView>
+    
+    <TextView
+        android:id="@+id/songName"
+        style="@style/artist_name"
+        android:textStyle="normal"
+
+
+        ></TextView>
+
+  <View
+      android:layout_width="match_parent"
+      android:layout_height="@dimen/viewSize"
+      android:background="#48070707"
+      android:layout_marginTop="@dimen/margin"
+      >
+
+  </View>
+
+</LinearLayout>
